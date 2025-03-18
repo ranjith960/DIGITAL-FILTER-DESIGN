@@ -5,6 +5,8 @@ INTERN ID:CT08UFA
 DOMAIN:VLSI 
 DURATION:4 WEEKS
 MENTOR:NEELA SANTOSH
+
+
 In VLSI (Very Large Scale Integration) design, **digital filter design** refers to the process of implementing a digital filter on a chip using digital signal processing (DSP) techniques. A digital filter is used to manipulate or modify a digital signal, typically for tasks like noise reduction, signal smoothing, or frequency filtering. These filters are widely used in various applications such as audio processing, image processing, communication systems, and sensor data analysis.
 
 ### Types of Digital Filters
